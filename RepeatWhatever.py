@@ -12,7 +12,7 @@ class RepeatWhatever:
 
     RETURN_TYPES = ("ANY",)
     FUNCTION = "process"
-    CATEGORY = "Custom"
+    CATEGORY = "RepeatWhatever"
 
     def process(self, items: List[Any]):
         """
